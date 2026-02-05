@@ -18,3 +18,6 @@ brew install font-jetbrains-mono-nerd-font
 
 # Install Oh-my-zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+# Install iTerm2 Config
+cp iterm2/com.googlecode.iterm2.plist ~/Library/Preferences/
