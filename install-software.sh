@@ -1,9 +1,6 @@
 # Install Homebrew
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-# Install Oh-my-zsh
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-
 # Install VPN Client
 brew install passepartout
 
@@ -18,3 +15,6 @@ brew install obsidian passepartout chatgpt 1password telegram orbstack codex ite
 
 # Install fonts
 brew install font-jetbrains-mono-nerd-font 
+
+# Install Oh-my-zsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
