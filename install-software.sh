@@ -11,7 +11,7 @@ read
 brew install neovim tmux htop uv bat ripgrep node minio-mc wrk
 
 # Install casks
-brew install pycharm webstorm chatgpt 1password telegram orbstack codex iterm2 arc tableplus ledger-wallet figma yandex raycast parallels
+brew install pycharm webstorm chatgpt 1password telegram orbstack codex iterm2 arc tableplus ledger-wallet figma yandex raycast
 
 # Install fonts
 brew install font-jetbrains-mono-nerd-font 
