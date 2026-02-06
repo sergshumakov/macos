@@ -1,0 +1,12 @@
+[init]
+	defaultBranch = main
+
+[core]
+	excludesfile = ~/.global-gitignore
+
+[pull]
+	rebase = false
+
+[user]
+	name = Sergey Shumakov
+	email = sergey@shumakov.email

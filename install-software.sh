@@ -20,4 +20,7 @@ brew install font-jetbrains-mono-nerd-font
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 # Install iTerm2 Config
-cp iterm2/com.googlecode.iterm2.plist ~/Library/Preferences/
+ln -s $HOME/.dotfiles/iterm2/com.googlecode.iterm2.plist $HOME/Library/Preferences/com.googlecode.iterm2.plist 
+
+# Git config
+ln -s $HOME/.dotfiles/git/.gitconfig $HOME/.gitconfig
