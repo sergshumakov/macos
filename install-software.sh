@@ -8,7 +8,7 @@ echo "Press enter after starting VPN"
 read
 
 # Install formulas
-brew install neovim tmux htop uv bat ripgrep node minio-mc wrk
+brew install neovim tmux htop uv bat ripgrep node minio-mc wrk ffmpeg
 
 # Install casks
 brew install pycharm webstorm chatgpt 1password telegram orbstack codex ghostty arc tableplus ledger-wallet figma yandex raycast codex-app
