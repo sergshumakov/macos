@@ -11,7 +11,10 @@ read
 brew install neovim tmux htop uv bat ripgrep node minio-mc wrk ffmpeg
 
 # Install casks
-brew install pycharm webstorm chatgpt 1password telegram orbstack codex ghostty arc tableplus ledger-wallet figma yandex raycast codex-app
+brew install claude claude-code@latest pycharm 1password telegram orbstack ghostty arc tableplus ledger-wallet figma yandex raycast
+
+# Install GlitchTip CLI
+curl -fsSL https://glitchtip.com/install.sh | sh
 
 # Install fonts
 brew install font-jetbrains-mono-nerd-font 
